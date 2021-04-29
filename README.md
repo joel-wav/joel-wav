@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joel Jacob
+- 👋 Hi, I’m Joel 
 - 👀 currently learning Web development and python for machine learning
 - 👀 Also doing a bit of competitive programming
 
