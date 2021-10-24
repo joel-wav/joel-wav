@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Joel 
-- 👀 Currently trying my hand at Web Development.  
+- 👋 Hi, I’m Joel.
+- Developer and ML Enthusiast.
 
 <!---
 joel-wav/joel-wav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
